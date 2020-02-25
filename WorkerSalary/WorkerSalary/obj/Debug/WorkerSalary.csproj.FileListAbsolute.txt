@@ -1,0 +1,6 @@
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\bin\Debug\WorkerSalary.exe.config
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\bin\Debug\WorkerSalary.exe
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\bin\Debug\WorkerSalary.pdb
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\obj\Debug\WorkerSalary.csprojAssemblyReference.cache
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\obj\Debug\WorkerSalary.exe
+C:\Users\geras\source\repos\WorkerSalary\WorkerSalary\obj\Debug\WorkerSalary.pdb
